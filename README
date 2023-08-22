@@ -13,6 +13,7 @@ More documentation to customize a streamlit app:
 https://docs.streamlit.io/
 
 This app was developed in PyCharm 2021.3.1 Community Ed on Windows 11 using an isolated virtual environment.
+Python 3.9.5
 The model was developed and packaged using the accompanying Jupyter notebooks.
 
 Rachel Sickler

@@ -1,5 +1,4 @@
 streamlit==1.21.0
-# check with kerry on versions of these packages
 scikit-learn==1.0.2
 nltk==3.7
 cloudpickle==2.2.1
