@@ -1,0 +1,19 @@
+References:
+human-vs-ai_orig.png retrieved from https://www.physiowizard.com/blogs-content/artificial-intelligence-vs-human-intelligence-in-healthcare
+
+Run in terminal:
+# install the packages
+pip install -r requirements.txt
+# run the app
+streamlit run app.py
+# stop the app
+ctrl+c
+
+More documentation to customize a streamlit app:
+https://docs.streamlit.io/
+
+This app was developed in PyCharm 2021.3.1 Community Ed on Windows 11 using an isolated virtual environment.
+The model was developed and packaged using the accompanying Jupyter notebooks.
+
+Rachel Sickler
+NUARI 2023
