@@ -16,5 +16,10 @@ This app was developed in PyCharm 2021.3.1 Community Ed on Windows 11 using an i
 Python 3.9.5
 The model was developed and packaged using the accompanying Jupyter notebooks.
 
+Citation Requirement:
+If you use this dataset or code in your research, please cite the following paper:
+
+A. A. Bataineh, R. Sickler, K. Kurcz, and K. Pedersen, “AI-Generated vs. Human Text: Introducing a New Dataset for Benchmarking and Analysis,” IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2025.3544183.
+
 Rachel Sickler
 NUARI 2023
